@@ -1,4 +1,5 @@
 Christmas Card with diffrent light bulbs and colours as well as words.
-![Screenshot (61)](https://github.com/user-attachments/assets/b8397afc-2050-47a3-9b56-02c387231887)
 
-link:https://chunhan08.github.io/Christmas/
+![Screenshot (106)](https://github.com/user-attachments/assets/19b12a10-54e1-4471-bad7-7420d9d028d6)
+
+link:https://replit.com/@che1208/Christmas#Figures.py
